@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python2
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                           
 #   ~ DoxTracker 1.0 beta ~                          
